@@ -9,6 +9,7 @@ function App() {
     <div className="App">  
      <p>Welcome to react project...</p>
      <h1>Welcome</h1>
+     <h2>Products</h2>
     </div>
   )
 }
