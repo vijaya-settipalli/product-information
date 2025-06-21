@@ -6,11 +6,8 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <div className="App">
-     
-     
-     
-     <p>Welcome to react project</p>
+    <div className="App">  
+     <p>Welcome to react project...</p>
     </div>
   )
 }
