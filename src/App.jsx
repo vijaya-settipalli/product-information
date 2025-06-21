@@ -8,6 +8,7 @@ function App() {
   return (
     <div className="App">  
      <p>Welcome to react project...</p>
+     <h1>Welcome</h1>
     </div>
   )
 }
